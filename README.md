@@ -48,7 +48,7 @@ Script to clean, analyze, and process patient billing data with validation check
 ## 📫 Let's Connect!
 
 - **Email**: mwpier015@gmail.com  
-- **LinkedIn**: [linkedin.com/in/michaelpierce](#) _(insert your real link)_  
+- **LinkedIn**: [https://www.linkedin.com/in/michael-w-pierce-jr/](https://www.linkedin.com/in/michael-w-pierce-jr/) 
 - **Portfolio**: [mwp294.github.io](https://mwp294.github.io)
 
 ---
